@@ -2,7 +2,7 @@
 
 <div align="center">
     <h2>JavaScript Chatbot</h2>
-    <p>A Simple & Powerful chatbot in JavaScript.</p>
+    <p>A Simple & Powerful chatbot.</p>
 </div>
 
 ## About 
