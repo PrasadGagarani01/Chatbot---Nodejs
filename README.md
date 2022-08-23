@@ -59,12 +59,6 @@ To get a local copy up and running follow these simple steps.
 
    Fix auto fixable problems.
 
-<!-- Deploy  -->
-## Deploy
-
-Click this button to configure your Project and deploy it to Vercel.  
-  
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FdevXprite%2Fjavascript-chatbot)
 
 ## Credit
 
